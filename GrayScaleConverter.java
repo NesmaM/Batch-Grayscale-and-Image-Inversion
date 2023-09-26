@@ -3,10 +3,8 @@ import java.io.File;
 
 
 /**
- * Write a description of GrayScaleConverter here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Nesma Abouzaid) 
+ * @version (07/07/2023)
  */
 public class GrayScaleConverter {
     //I started with the image I wanted (inImage)
