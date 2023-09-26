@@ -2,10 +2,8 @@ import edu.duke.*;
 import java.io.File;
 
 /**
- * Write a description of InverseConverter here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Nesma Abouzaid) 
+ * @version (07/07/2023)
  */
 public class InverseConverter {
     public ImageResource makeInverse(ImageResource inImage){
